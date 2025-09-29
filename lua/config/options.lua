@@ -3,5 +3,4 @@
 -- Add any additional options here
 
 -- a little line height for better view
--- vim.opt.linespace = 5
-
+-- vim.opt.linespace = 50
