@@ -14,6 +14,7 @@ return {
           "gruvbox",
           "onedark",
           "dracula",
+          "moonfly",
         },
         initial_theme = "everforest",
         theme_preview = false,
@@ -21,3 +22,4 @@ return {
     end,
   },
 }
+
