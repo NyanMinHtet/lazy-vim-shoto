@@ -129,7 +129,7 @@ return {
   }),
 
   -- Imports
-  s("oimp", {
+  s("imp", {
     t("from odoo import api, fields, models, _"),
   }),
 }
